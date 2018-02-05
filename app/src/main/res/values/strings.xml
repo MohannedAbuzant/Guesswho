@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Guess who</string>
+    //App first page text
+    <string name="Start">Can you guess these successful people or their work?? </string>
+    //App button text
+    <string name="Button">Check the answer</string>
+    //App first page button
+    <string name="ButtonStart">Lets play the Game !!!</string>
+    //App second page Edit Question
+    <string name="EditQ">What is your name??</string>
+    //App second page Edit hint
+    <string name="Edit">Enter your name to start</string>
+    //App second page #1 question
+    <string name="Question1">Q1: Who is this guy?</string>
+    //App second page #1 question Options
+    <string name="Q1_Option1">Steve Wozniak</string>
+    <string name="Q1_Option2">Steve Jobs</string>
+    <string name="Q1_Option3">Tim Cook</string>
+    <string name="Q1_Option4">Sundar Pichai</string>
+    //App second page #2 question
+    <string name="Question2">Q2: Who is this guy?</string>
+    //App second page #2 question Options
+    <string name="Q2_Option1">Owner of Tesla Company</string>
+    <string name="Q2_Option2">Elon Musk</string>
+    <string name="Q2_Option3">Owner of the Boring Company</string>
+    <string name="Q2_Option4">A Google employee </string>
+    //App second page #3 question
+    <string name="Question3">Q3: What does this Guy Work??</string>
+    //App second page #3 question Options
+    <string name="Q3_Option1">Owner of Coca Cola Company</string>
+    <string name="Q3_Option2">Motivational Speaker</string>
+    <string name="Q3_Option3">Book Writer </string>
+    <string name="Q3_Option4">A Great Programmer </string>
+    //App second page #4 question
+    <string name="Question4">Q4: What Products did this Man make??</string>
+    //App second page #4 question Options
+    <string name="Q4_Option1">Surface</string>
+    <string name="Q4_Option2">Windows</string>
+    <string name="Q4_Option3">Xbox </string>
+    <string name="Q4_Option4">MacBook</string>
+    //App second page #5 question
+    <string name="Question5">Q5: What is the name of the company that this man made?</string>
+    //App second page #5 question Options
+    <string name="Q5_Option1">Microsoft</string>
+    <string name="Q5_Option2">Amazon</string>
+    <string name="Q5_Option3">Dell </string>
+    <string name="Q5_Option4">HP</string>
+    //App second page #6 question
+    <string name="Question6">Q6: What are the companies that this guy owns?</string>
+    //App second page #6 question Options
+    <string name="Q6_Option1">Facebook</string>
+    <string name="Q6_Option2">Whatsapp</string>
+    <string name="Q6_Option3">Viber </string>
+    <string name="Q6_Option4">Instgram</string>
+    //App second page #7 question
+    <string name="Question7">Q7: what is the name of this man and what is his position at his company?</string>
+    //App second page #7 question Options
+    <string name="Q7_Option1">Jack Dorsey</string>
+    <string name="Q7_Option2">CEO</string>
+    <string name="Q7_Option3">Kevin Systrom </string>
+    <string name="Q7_Option4">Founder</string>
+    //App second page #8 question
+    <string name="Question8">Q8: what is the name of this man company??</string>
+    //App second page #8 question Options
+    <string name="Q8_Option1">Valve</string>
+    <string name="Q8_Option2">WWE</string>
+    <string name="Q8_Option3">UFC </string>
+    <string name="Q8_Option4">LG</string>
+    //App second page #9 question
+    <string name="Question9">Q9: what is the team that this man manages ??</string>
+    //App second page #9 question Options
+    <string name="Q9_Option1">Real Madrid </string>
+    <string name="Q9_Option2">FC Barcelona</string>
+    <string name="Q9_Option3">FC Bayern Munich</string>
+    <string name="Q9_Option4">Arsenal F.C.</string>
+    //App second page #10 question
+    <string name="Question10">Q10: what is the name of this man and he is CEO of what ??</string>
+    //App second page #9 question Options
+    <string name="Q10_Option1"> Udacity </string>
+    <string name="Q10_Option2"> Vishal Makhijani </string>
+    <string name="Q10_Option3">Jensen Huang</string>
+    <string name="Q10_Option4"> Nvidia </string>
+
+
+</resources>
